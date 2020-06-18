@@ -28,7 +28,7 @@
                
         }
         else if (sorteio==2) {
-            var titulo ="A teoria de tudo" ;
+            var titulo ="A Teoria de Tudo" ;
             var descricao = "Essa cinebiografia do astrofísico Stephen Hawking retrata a importância de seu trabalho, a luta contra uma doença incurável e o amor incondicional de sua esposa.";
             var ator = "Eddie Redmayne, Felicity Jones, Tom Prior";
             var diretor = "James Marsh" ;
@@ -248,7 +248,7 @@
 
         else if (sorteio==13) {
             var titulo = "Hoje Eu Quero Voltar Sozinho" ;
-            var descricao = "Um novo colega de sala transforma a vida do estudante leonardo, que também é cego, e complica sua amizade com sua melhor amiga.";
+            var descricao = "Um novo colega de sala transforma a vida do estudante Leonardo, que também é cego, e complica sua amizade com sua melhor amiga.";
             var ator = "Ghilherme Lobo, Fabio Audi, Tess Amorim";
             var diretor = "Daniel Ribeiro";
             var nota ="95%" ;
@@ -286,7 +286,7 @@
         }
         else if (sorteio==15) {
             var titulo =  "Como Eu Era Antes de Você";
-            var descricao = "O coração da ingênua Lou é posto à prova quando ela passa a cuidar de um solteiro rico e ranzinza,  que ficou tetraplégico em um acidente.";
+            var descricao = "O coração da ingênua Lou é posto à prova quando ela passa a cuidar de um solteiro rico e ranzinza, que ficou tetraplégico em um acidente.";
             var ator = "Emilia Clarke, Sam Claflin, Janet McTeer" ;
             var diretor = "Thea Sharrock";
             var nota = "95%";
