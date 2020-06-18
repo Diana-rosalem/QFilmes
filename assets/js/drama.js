@@ -8,7 +8,7 @@
         //ver qual filme foi sorteado
         if (sorteio==1) {
             var titulo = "Apollo 13";
-            var descricao = "Problemas técnicos colocam em risco a missão Apollo 13 em 1971, além de da vida do astronauta Jim Lovell e de sua tripulação, nessa história baseada em fatos reai.";
+            var descricao = "Problemas técnicos colocam em risco a missão Apollo 13 em 1971, além de da vida do astronauta Jim Lovell e de sua tripulação, nessa história baseada em fatos reais.";
             var ator = "Tom Hanks, Bill Paxton, Gary Sinise";
             var diretor = "Ron Howard";
             var nota =  "91%";
