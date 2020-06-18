@@ -8,7 +8,7 @@
         //ver qual filme foi sorteado
         if (sorteio==1) {
             var titulo = "Onde Está Segunda?";
-            var descricao = "Em um futuro onde só filhos únicos são permitidos,seis irmãs gêmeas tentam se esconder do governo enquanto procuram a sétima desaparecida.";
+            var descricao = "Em um futuro onde só filhos únicos são permitidos, seis irmãs gêmeas tentam se esconder do governo enquanto procuram a sétima desaparecida.";
             var ator = "Noomi Rapace, Willem Dafoe, Glenn Close";
             var diretor = "Tommy Wirkola";
             var nota =  "92%";
@@ -69,7 +69,7 @@
 
         else if (sorteio==4) {
             var titulo = "Blade Runner: O Caçador de Androides " ;
-            var descricao = "Em uma Los Angeles poluída e distópica, o caçador de androides Rick Deckard volta á ativa para detes um quarteto fugitivo de replicantes." ;
+            var descricao = "Em uma Los Angeles poluída e distópica, o caçador de androides Rick Deckard volta à ativa para deter um quarteto fugitivo de replicantes." ;
             var ator = "Harrison Ford, Rutger Hauer, Sean Young ";
             var diretor = "Ridley Scott";
             var nota = "85%" ;
@@ -170,7 +170,7 @@
 
         else if (sorteio==9) {
             var titulo = "Troco em Dobro";
-            var descricao = "Spenser, um ex-policials e ex-presidiário, e o aspirante a lutador Hawk se unem para investigar uma conspiração ligada á morte de dois oficiais de Boston.";
+            var descricao = "Spencer, um ex-policials e ex-presidiário, e o aspirante a lutador Hawk se unem para investigar uma conspiração ligada á morte de dois oficiais de Boston.";
             var ator = "Winston Duke, Mark Wahlberg, Alan Arkin" ;
             var diretor = "Peter Berg" ;
             var nota = "88%";
