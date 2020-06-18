@@ -29,7 +29,7 @@
         }
         else if (sorteio==2) {
             var titulo ="Monty Python - Em Busca do Cálice Sagrado" ;
-            var descricao = "O grupo de comédia Monty PYthon reconta a lenda do Rei Arthur e os Cavaleiros da Távola Redonda na busca pelo Cálice Sagrado.";
+            var descricao = "O grupo de comédia Monty Python reconta a lenda do Rei Arthur e os Cavaleiros da Távola Redonda na busca pelo Cálice Sagrado.";
             var ator = "Graham Chapman, John Cleese, Eric Idle";
             var diretor = "Terry Jones, Terry Gilliam" ;
             var nota =   "93%" ;
@@ -49,7 +49,7 @@
 
         else if (sorteio==3) {
             var titulo = "Meu Eterno Talvez";
-            var descricao = "A famosa chefe Sascha e o músico Marcus se reencontram depois de 15 anos. atração ainda existe, mas não vai ser fácil para que eles se adaptarem a vida um do outro.";
+            var descricao = "A famosa chefe Sascha e o músico Marcus se reencontram depois de 15 anos. Atração ainda existe, mas não vai ser fácil para que eles se adaptarem a vida um do outro.";
             var ator = "Ali Wong, Randall Park, Keanu Reeves";
             var diretor ="Nahnatchka Khan" ;
             var nota ="92%" ;
@@ -208,7 +208,7 @@
 
         else if (sorteio==11) {
             var titulo = "O Segredo dos Animais";
-            var descricao = "Quando as coisas na fazenda ficam agitados demais , um energético bovino chamado Otis entra em ação para colocar tudo em ordem.";
+            var descricao = "Quando as coisas na fazenda ficam agitados demais, um energético bovino chamado Otis entra em ação para colocar tudo em ordem.";
             var ator = "Emmanuel Garijo, Claude Brosset, Kevin James";
             var diretor ="Steve Oedekerk" ;
             var nota ="91%" ;
@@ -228,7 +228,7 @@
         
         else if (sorteio==12) {
             var titulo = "O clube dos 5";
-            var descricao = "O atleta , o nerd , o marginal , princesa e a maluca rompe as barreiras sociais de um colégio durante o castigo de sábado.";
+            var descricao = "O atleta, o nerd, o marginal, princesa e a maluca rompe as barreiras sociais de um colégio durante o castigo de sábado.";
             var ator = "Emilio Estevez, Anthony Michael Hall, Paul Gleason" ;
             var diretor = "John Hughesz";
             var nota = "94%" ;
@@ -267,7 +267,7 @@
         }
         else if (sorteio==14) {
             var titulo =  "Yucatán";
-            var descricao = "Durante um cruzeiro entre a Espanha e o México, dois trapaceiros competem entre si, tentando enganar um padeiro que ganhou milhões na loteria .";
+            var descricao = "Durante um cruzeiro entre a Espanha e o México, dois trapaceiros competem entre si, tentando enganar um padeiro que ganhou milhões na loteria.";
             var ator = "Luis Tosar, Rodrigo de la Serna, Gloria Muñoz" ;
             var diretor = "Daniel Monzón" ;
             var nota = "75%";
@@ -286,7 +286,7 @@
         }
         else if (sorteio==15) {
             var titulo = "Toc Toc";
-            var descricao = "a sala de espera do médico atrasado, pacientes com TOC precisam lidar com as manias estranhas de cada um.";
+            var descricao = "A sala de espera do médico atrasado, pacientes com TOC precisam lidar com as manias estranhas de cada um.";
             var ator = "Paco León, Alexandra Jiménez, Rossy de Palma" ;
             var diretor = "Vicente Villanueva";
             var nota = "93%";
@@ -305,7 +305,7 @@
         }
         else if (sorteio==16) {
             var titulo = "Mistério do Mediterrâneo";
-            var descricao = "Numa aguardada a viagem à Europa, um policial de Nova Iorque sua esposa cabeleireira tentam solucionar um caso assassinato a bordo do iate de um bilionário.";
+            var descricao = "Numa aguardada viagem à Europa, um policial de Nova Iorque sua esposa cabeleireira tentam solucionar um caso de assassinato a bordo do iate de um bilionário.";
             var ator = "Adam Sandler, Jennifer Aniston, Luke Evans";
             var diretor = "Kyle Newacheck";
             var nota = "86%";
@@ -344,7 +344,7 @@
         }
         else if (sorteio==18) {
             var titulo = "O Plano Imperfeito";
-            var descricao = "Desesperados por um pouco de sossego, dois assistentes exaustos unem forças para fazer com que seus chefes  workaholics se apaixonem.";
+            var descricao = "Desesperados por um pouco de sossego, dois assistentes exaustos unem forças para fazer com que seus chefes workaholics se apaixonem.";
             var ator = "Zoey Deutch, Glen Powell, Lucy Liu";
             var diretor = "Claire Scanlon";
             var nota = "93%";
@@ -363,7 +363,7 @@
         }
         else if (sorteio==19) {
             var titulo = "Ricos de Amor";
-            var descricao = "Teto é um jovem rico que quer conquistar Paula, sua crush. Mas, para isso, precisa contar.";
+            var descricao = "Teto é um jovem rico que quer conquistar Paula, sua crush. Mas, para isso, precisa contar uma mentira que pode virar a sua vida de cabeça para baixo.";
             var ator = "Giovanna Lancellotti, Danilo Mesquita, Ernani Moraes";
             var diretor = "Bruno Garotti";
             var nota = "94%";
@@ -381,8 +381,8 @@
             document.getElementById("fotofilme").innerHTML = foto
         }
         else if (sorteio==20) {
-            var titulo = "Superbad: É hoje";
-            var descricao = "Dois amigos tentam comprar bebida para uma festa impressionar as garotas, mas acabam se envolvendo em uma série de aventuras malucas.";
+            var titulo = "Superbad: É hoje!";
+            var descricao = "Dois amigos tentam comprar bebida para uma festa e impressionar as garotas, mas acabam se envolvendo em uma série de aventuras malucas.";
             var ator ="Jonah Hill, Michael Cera, Christopher Mintz-Plasse" ;
             var diretor = "Greg Mottola";
             var nota =  "91%";
