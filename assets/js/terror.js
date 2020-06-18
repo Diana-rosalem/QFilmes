@@ -128,7 +128,7 @@
 
         else if (sorteio==7) {
             var titulo = "Campo do Medo";
-            var descricao = "Após ouvirem um menino gritar por socorro,uma mulher grávida e o irmão se embrenham em um matagal sem saaber que, uma vez dentro dele, não há saída.";
+            var descricao = "Após ouvirem um menino gritar por socorro, uma mulher grávida e o irmão se embrenham em um matagal sem saber que, uma vez dentro dele, não há saída.";
             var ator ="Laysla De Oliveira, Patrick Wilson, Will Buie Jr." ;
             var diretor ="Vincenzo Natali" ;
             var nota = "59%";
