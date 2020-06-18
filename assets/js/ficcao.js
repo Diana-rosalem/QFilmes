@@ -304,7 +304,7 @@
             document.getElementById("fotofilme").innerHTML = foto
         }
         else if (sorteio==16) {
-            var titulo = "kong a ilha da caveira";
+            var titulo = "Kong a Ilha da Caveira";
             var descricao = "Uma equipe de militares cientistas parte em uma expedição para uma ilha inexplorada, sem a menor ideia da surpresa gigante que a aguarda.";
             var ator =  "Tom Hiddleston, Samuel L. Jackson, Brie Larson";
             var diretor = "Jordan Vogt-Roberts";
@@ -362,7 +362,7 @@
             document.getElementById("fotofilme").innerHTML = foto
         }
         else if (sorteio==19) {
-            var titulo = "Contatos Imediatos do terceiro grau";
+            var titulo = "Contatos Imediatos do Terceiro Grau";
             var descricao =  "Enquanto eventos inexplicáveis chocam os especialistas, um homem obcecado por OVNIs é atraído para uma montanha misteriosa e tem um encontro de outro mundo.";
             var ator = "Richard Dreyfuss, François Truffaut, Teri Garr";
             var diretor = "Steven Spielberg";
