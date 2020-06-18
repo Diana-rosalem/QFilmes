@@ -285,7 +285,7 @@ function sorteiosuspence(){
         }
         else if (sorteio==15) {
             var titulo = "A Noite nos Persegue";
-            var descricao = "Após poupar a vida de uma garota durante o massacre , um assassino de elite se torna alvo do ataque de criminosos.";
+            var descricao = "Após poupar a vida de uma garota durante o massacre, um assassino de elite se torna alvo do ataque de criminosos.";
             var ator = "Joe Taslim, Iko Uwais, Julie Estelle";
             var diretor = "Timo Tjahjanto";
             var nota = "91%";
@@ -381,7 +381,7 @@ function sorteiosuspence(){
         }
         else if (sorteio==20) {
             var titulo = "Truque de Mestre";
-            var descricao = "Um grupo de ilusionistas se especializa em roubar bancos e dar o dinheiro para o público encontro de despista agentes do FBI.";
+            var descricao = "Um grupo de ilusionistas se especializa em roubar bancos e dar o dinheiro para o público enquanto despista agentes do FBI.";
             var ator ="Jesse Eisenberg, Mark Ruffalo, Woody Harrelson" ;
             var diretor = "Louis Leterrier";
             var nota =  "93%";
