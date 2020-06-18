@@ -29,7 +29,7 @@
         }
         else if (sorteio==2) {
             var titulo ="Monty Python - Em Busca do Cálice Sagrado" ;
-            var descricao = "O grupo de comédia Monty PYthon reconta a lenda do rei Arthur e os cavaleiros da Távola redonda na busca pelo cálice sagrado .";
+            var descricao = "O grupo de comédia Monty PYthon reconta a lenda do Rei Arthur e os Cavaleiros da Távola Redonda na busca pelo Cálice Sagrado.";
             var ator = "Graham Chapman, John Cleese, Eric Idle";
             var diretor = "Terry Jones, Terry Gilliam" ;
             var nota =   "93%" ;
