@@ -47,7 +47,7 @@ function sorteioindicacao(){
         }   
         else if (sorteio==3) {
             var titulo = "Psicose";
-            var descricao = "Quando uma funcionária de imobiliária comete um roubo e foge com um Monte de dinheiro,esperando começar uma nova vida, ela acaba no famoso Hotel Bates.";
+            var descricao = "Quando uma funcionária de imobiliária comete um roubo e foge com um Monte de dinheiro, esperando começar uma nova vida, ela acaba no famoso Hotel Bates.";
             var ator = "Anthony Perkins, Janet Leigh, John Gavin";
             var diretor = "Alfred Hitchcock";
             var nota = "86%";
@@ -66,7 +66,7 @@ function sorteioindicacao(){
         }
         else if (sorteio==4) {
             var titulo = "Truque de Mestre";
-            var descricao = "Um grupo de ilusionistas se especializa em roubar bancos e dar o dinheiro para o público encontro de despista agentes do FBI.";
+            var descricao = "Um grupo de ilusionistas se especializa em roubar bancos e dar o dinheiro para o público enqunato despista agentes do FBI.";
             var ator ="Jesse Eisenberg, Mark Ruffalo, Woody Harrelson" ;
             var diretor = "Louis Leterrier";
             var nota =  "93%";
@@ -142,7 +142,7 @@ function sorteioindicacao(){
         }
         else if (sorteio==8) {
             var titulo = "Livrai-nos do Mal" ;
-            var descricao = "Durante a Segunda Guerra Mundial, um socorrista do exército se recusa a matar, mas consegue levar seu batalhão a Vitória reiniciar o movimento de objeção por consciência." ;
+            var descricao = "Durante a Segunda Guerra Mundial, um socorrista do exército se recusa a matar, mas consegue levar seu batalhão a vitória e reiniciar o movimento de objeção por consciência." ;
             var ator ="Eric Bana, Édgar Ramírez, Olivia Munn";
             var diretor = "Scott Derrickson";
             var nota = "89%";
@@ -240,7 +240,7 @@ function sorteioindicacao(){
         }
         else if (sorteio==13) {
             var titulo = "O Profissional";
-            var descricao = "Um assassino profissional de Nova Iorque se torna o Guardião de uma garota de 12 anos que quer se vingar do policial que assassinou toda sua família.";
+            var descricao = "Um assassino profissional de Nova Iorque se torna o guardião de uma garota de 12 anos que quer se vingar do policial que assassinou toda sua família.";
             var ator = "Jean Reno, Gary Oldman, Natalie Portman";
             var diretor = "Luc Besson";
             var nota = "93%";
@@ -278,7 +278,7 @@ function sorteioindicacao(){
         }
         else if (sorteio==15) {
             var titulo ="Monty Python - Em Busca do Cálice Sagrado" ;
-            var descricao = "O grupo de comédia Monty PYthon reconta a lenda do Rei Arthur e os Cavaleiros da Távola Redonda na busca pelo Cálice Sagrado .";
+            var descricao = "O grupo de comédia Monty Python reconta a lenda do Rei Arthur e os Cavaleiros da Távola Redonda na busca pelo Cálice Sagrado .";
             var ator = "Graham Chapman, John Cleese, Eric Idle";
             var diretor = "Terry Jones, Terry Gilliam" ;
             var nota =   "93%" ;
@@ -354,7 +354,7 @@ function sorteioindicacao(){
         }
         else if (sorteio==19) {
             var titulo = "O Plano Imperfeito";
-            var descricao = "Desesperados por um pouco de sossego, dois assistentes exaustos unem forças para fazer com que seus chefes  workaholics se apaixonem.";
+            var descricao = "Desesperados por um pouco de sossego, dois assistentes exaustos unem forças para fazer com que seus chefes workaholics se apaixonem.";
             var ator = "Zoey Deutch, Glen Powell, Lucy Liu";
             var diretor = "Claire Scanlon";
             var nota = "93%";
@@ -372,8 +372,8 @@ function sorteioindicacao(){
             document.getElementById("fotofilme").innerHTML = foto
         }
         else if (sorteio==20) {
-            var titulo = "Á Espera de um Milagre";
-            var descricao = "Um agente penitenciário descobre que um detento no corredor da morte possui poderes misteriosos. Agora,  ele precisa impedir a execução do condenado ao todo custo.";
+            var titulo = "À Espera de um Milagre";
+            var descricao = "Um agente penitenciário descobre que um detento no corredor da morte possui poderes misteriosos. Agora, ele precisa impedir a execução do condenado ao todo custo.";
             var ator ="Tom Hanks, Michael Clarke Duncan, David Morse" ;
             var diretor = "Frank Darabont";
             var nota =  "95%";
